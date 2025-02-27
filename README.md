@@ -2,6 +2,42 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18421149&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+FUNDAMENTAL CONCEPTS OF VERSION CONTROL
+
+REPOSITORY- it is a storage location for your code or project files.
+
+COMMIT- it is a snapshot of changes made to codespace.
+
+BRANCHING- Creating a separate line of development, allowing you work on new features without interfering with the mainwork.
+
+MERGING- process of combining changes from one branch to anather.
+
+PULL REQUEST- request to merge changes from one branch to another.
+
+CLONING- process of copying a repository.
+
+WHY GITHUB IS A POPULAR TOOL'
+
+DISTRIBUTED VERSION CONTROL- uses Git which allows developers to have their own local repositories
+
+COLLABORATION- its supports teamwork and ensures that everyone is on the same page e.g. pull reuest and branching.
+
+COMMINITY AND OPEN SOURCE- developers all over the world collaborate on projects.
+
+SECURITY AND PERMISSIONS- it offers security features e.g. private repositories
+
+HOW IT MAINTAINS PROJECT INTEGRITY
+
+SECURE COLLABORATIONS - it allows you to have control to who has access to differnt parts of the project<br> you can store repositories in private to ensure it remains secure.
+
+AUTOMATING QUALITY ASSURANCE- many version controll systyem intergrate with CI/CD tools which automatically run tests and code when changes are made.
+
+CONSISTENCY ACROSS DOCUMENTATION AND CODE- ensure documentation matches the current state of codebase preventing confusion.
+
+CLEAR RESPONSIBILITY- it logs every change with authos details hence  easy to track down if something goes wrong.
+
+TRACKING CHANGE- it has record of changes hence easier to audit the project develpment.
+
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
